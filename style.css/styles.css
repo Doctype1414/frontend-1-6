@@ -1,0 +1,31 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+header {
+    background-color: #0020F4;
+    
+    
+}
+
+ul li {
+    color: #FFFFFF;
+    
+}
+
+
+
+
+.box-image p {
+    position: absolute;
+}
+div p {
+    position: relative;
+}
+/* div image {
+    position: relative;
+}
+div p {
+    position: absolute;
+} */
